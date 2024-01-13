@@ -9,4 +9,4 @@ console.log(addNum(2));
 
 console.log(addNum(8));
 
-// This is a comment
+// This is the new comment
