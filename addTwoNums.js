@@ -5,7 +5,7 @@ function addTwoNums(a){
 }
 
 const addNum = addTwoNums(3);
-console.log(addNum(2));
+console.log(addNum(20));
 
 console.log(addNum(10));
 
