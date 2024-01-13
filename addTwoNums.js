@@ -4,9 +4,9 @@ function addTwoNums(a){
     }
 }
 
-const addNum = addTwoNums(3);
+const addNum = addTwoNums(30);
 console.log(addNum(20));
 
-console.log(addNum(10));
+
 
 // This is the new comment
