@@ -3,10 +3,5 @@ function addTwoNums(a){
         return a+b;
     }
 }
-
 const addNum = addTwoNums(30);
 console.log(addNum(20));
-
-
-
-// This is the new comment
