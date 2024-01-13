@@ -7,3 +7,4 @@ function addTwoNums(a){
 const addNum = addTwoNums(3);
 console.log(addNum(2));
 
+// This is a comment
